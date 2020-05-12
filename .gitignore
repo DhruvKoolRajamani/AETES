@@ -1,0 +1,10 @@
+.vscode/
+data/Arctic/
+data/deepspeech/
+data/wav_files/
+*.pyc
+__pycache__/
+data/Arctic.tar.gz
+logs/
+data/models/speech2speech/
+data/preprocessed/model/speech.npz
